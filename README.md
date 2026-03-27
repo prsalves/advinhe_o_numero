@@ -30,3 +30,7 @@ Este projeto foi desenvolvido para praticar conceitos básicos de programação 
 * Laços de repetição
 * Entrada e saída de dados
 * Uso de números aleatórios
+  
+## 👨‍💻 Autor
+
+Desenvolvido por **Alvaro Alves Pires Filho**.
