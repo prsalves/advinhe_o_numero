@@ -6,14 +6,16 @@ O programa escolhe um número dentro de um intervalo definido e o usuário tenta
 
 ## 🚀 Funcionalidades
 
-* Geração de número aleatório
-* Sistema de tentativas
-* Dicas para ajudar o jogador (maior ou menor)
+* Geração de número aleatório através da biblioteca random
+* Sistema de tentativas 
+* Dicas para ajudar o jogador, indicando se o número é maior ou melhor
 * Interação pelo terminal
 
 ## 🛠️ Tecnologias utilizadas
 
-* Python
+* Linguagem de programação Python
+* Biblioteca random para gerar o número aleatório
+* Biblioteca colorama, utilizada para mudar a cor das mensagens exibidas no terminal
 
 ## 🎮 Como jogar
 
@@ -26,10 +28,10 @@ O programa escolhe um número dentro de um intervalo definido e o usuário tenta
 
 Este projeto foi desenvolvido para praticar conceitos básicos de programação em Python, como:
 
-* Condicionais (`if`)
 * Laços de repetição
-* Entrada e saída de dados
-* Uso de números aleatórios
+* Utilização de bibliotecas externas, como colorama e random
+* Tratamento de dados, tanto de entrada como de saída
+* Tratamento de possíveis erros
   
 ## 👨‍💻 Autor
 
